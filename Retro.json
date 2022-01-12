@@ -1,0 +1,29 @@
+{
+    "manifest": {
+        "author": "skyluf#9293",
+        "version": "1.0.0",
+        "name": "Retro"
+    },
+    "background": {
+        "url": "https:\/\/i.imgur.com\/UwditGL.jpeg",
+        "overlay_alpha": 2,
+        "blur_radius": 10
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -6791757,
+        "mention_highlight": 1106768633,
+        "background_secondary": 574881847,
+        "background": 1514020173,
+        "active_channel": -9495659
+    },
+    "colors": {
+        "brand_560": -14808538,
+        "primary_660": -12373174,
+        "uikit_settings_item_text_color_light": -9161328,
+        "primary_dark_300": -1513495,
+        "link": -14188851
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
