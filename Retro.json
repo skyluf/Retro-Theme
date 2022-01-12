@@ -24,6 +24,12 @@
         "primary_dark_300": -1513495,
         "link": -14188851
     },
-    "drawable_tints": {},
+    "drawable_tints": {
+        "ic_channel_text_nsfw": -1025900466,
+        "ic_channel_text_locked": -884778137,
+        "ic_add_person_16dp": -14188851,
+        "ic_thread": -2222161,
+        "ic_thread_nsfw": -4259772
+    },
     "raws": {}
 }
